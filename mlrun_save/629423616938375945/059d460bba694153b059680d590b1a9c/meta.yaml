@@ -1,0 +1,15 @@
+artifact_uri: file:///home/martin/cs2547/project/sls_sat_solving_with_deep_learning/mlrun_save/629423616938375945/059d460bba694153b059680d590b1a9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '629423616938375945'
+lifecycle_stage: active
+run_id: 059d460bba694153b059680d590b1a9c
+run_name: receptive-sponge-137
+run_uuid: 059d460bba694153b059680d590b1a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711124428422
+status: 1
+tags: []
+user_id: martin

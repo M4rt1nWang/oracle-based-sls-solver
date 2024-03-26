@@ -1,0 +1,15 @@
+artifact_uri: file:///home/martin/cs2547/project/sls_sat_solving_with_deep_learning/mlrun_save/319606209281033180/9349c0592ac447a59e7e1773d02fe3de/artifacts
+end_time: 1711124421744
+entry_point_name: ''
+experiment_id: '319606209281033180'
+lifecycle_stage: active
+run_id: 9349c0592ac447a59e7e1773d02fe3de
+run_name: spiffy-mare-765
+run_uuid: 9349c0592ac447a59e7e1773d02fe3de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711121764770
+status: 3
+tags: []
+user_id: martin

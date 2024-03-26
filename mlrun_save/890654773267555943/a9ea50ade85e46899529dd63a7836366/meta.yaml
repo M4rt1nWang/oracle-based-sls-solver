@@ -1,0 +1,15 @@
+artifact_uri: file:///home/martin/cs2547/project/sls_sat_solving_with_deep_learning/mlrun_save/890654773267555943/a9ea50ade85e46899529dd63a7836366/artifacts
+end_time: 1711129947688
+entry_point_name: ''
+experiment_id: '890654773267555943'
+lifecycle_stage: active
+run_id: a9ea50ade85e46899529dd63a7836366
+run_name: whimsical-finch-367
+run_uuid: a9ea50ade85e46899529dd63a7836366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711125458129
+status: 3
+tags: []
+user_id: martin
